@@ -15,7 +15,7 @@
 ###
 <h2 align="left">Here are my socials</h2>
 <a href="https://www.instagram.com/serbannandrei/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serbannandrei" height="30" width="40" style="max-width: 100%;"></a>
-<a href="www.linkedin.com/in/serban-andrei"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/serban-andrei" height="30" width="40" style="max-width: 100%;">
+<a href="https://www.linkedin.com/in/serban-andrei/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/serban-andrei" height="30" width="40" style="max-width: 100%;">
 </a>
 <br>
 <br>
